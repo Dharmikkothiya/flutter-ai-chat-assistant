@@ -1,6 +1,6 @@
 # 🤖 Flutter AI Chat Assistant (MVP)
 
-A production-ready, feature-rich **AI Mobile Assistant** built with **Flutter**, **Riverpod**, and **Material 3**. Designed for high-performance agentic workflows with real-time streaming, multi-provider LLM routing, long-term memory, modular agent tools, and offline-first state synchronization.
+An enterprise-ready, cross-platform AI assistant built with Flutter. Powered by OpenAI's GPT-4o-mini and Whisper APIs, it delivers token-by-token real-time streaming, speech-to-text capabilities, dynamic model selection, and offline conversation caching with zero UI latency
 
 ---
 
