@@ -6,7 +6,8 @@ import 'package:flutter_test/flutter_test.dart';
 import 'package:ai_mobile_assistant/di.dart';
 import 'package:ai_mobile_assistant/models/models.dart';
 import 'package:ai_mobile_assistant/services/agent_controller.dart';
-import 'package:ai_mobile_assistant/services/chat_store.dart' show ChatStore, SessionBundle;
+import 'package:ai_mobile_assistant/services/chat_store.dart'
+    show ChatStore, SessionBundle;
 import 'package:ai_mobile_assistant/services/llm_client.dart';
 
 import '../support/test_doubles.dart';

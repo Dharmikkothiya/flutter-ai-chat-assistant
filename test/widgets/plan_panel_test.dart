@@ -5,7 +5,8 @@ import 'package:flutter_test/flutter_test.dart';
 import 'package:ai_mobile_assistant/di.dart';
 import 'package:ai_mobile_assistant/l10n/app_strings.dart';
 import 'package:ai_mobile_assistant/models/models.dart';
-import 'package:ai_mobile_assistant/services/agent_controller.dart' show ChatState;
+import 'package:ai_mobile_assistant/services/agent_controller.dart'
+    show ChatState;
 import 'package:ai_mobile_assistant/ui/theme.dart';
 import 'package:ai_mobile_assistant/ui/widgets/plan_panel.dart';
 
